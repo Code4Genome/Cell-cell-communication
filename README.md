@@ -9,7 +9,7 @@ These packages help identify potential ligand-receptor interactions, pathways in
 
 ![grafik](https://github.com/user-attachments/assets/f9e5cb39-91ff-442b-8d1e-06d7f3cfdc2c)
 
-Photo taken from (CellPhoneDB v5: inferring cell–cell communication from single-cell multiomics data) (https://www.nature.com/articles/s41596-024-01137-1)
+Photo taken from (CellPhoneDB v5: inferring cell–cell communication from single-cell multiomics data) (https://www.nature.com/articles/s41596-024-01137-1).
 Nature Protocols (Nat Protoc), ISSN 1750-2799 (online), ISSN 1754-2189 (print)
 
 ## 🗂 Repository Structure
