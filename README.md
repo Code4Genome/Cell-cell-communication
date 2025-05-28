@@ -4,7 +4,7 @@ development, differentiation, tissue and organ formation, maintenance, and physi
 **Cells communicate through direct contact or at a distance using ligand–receptor interactions.** 
 So cellular communication encompasses two essential processes: cell signal conduction for generation and intercellular transmission of signals, 
 and cell signal transduction for reception and procession of signals.
-Several R packages (Cellchat, NicheNET, LIANA, IcellNET, etc.,) and python resources (CellphoneDB, LIANA, etc.,)are available for analyzing and visualizing cell-cell communication (CCC) from bulk and single-cell transcriptomics data. 
+Several R packages (Cellchat, NicheNET, LIANA, ICELLNet, etc.,) and python resources (CellphoneDB, LIANA, etc.,)are available for analyzing and visualizing cell-cell communication (CCC) from bulk and single-cell transcriptomics data. 
 These packages help identify potential ligand-receptor interactions, pathways involved, and communication networks.
 
 ![grafik](https://github.com/user-attachments/assets/f9e5cb39-91ff-442b-8d1e-06d7f3cfdc2c)
@@ -14,7 +14,7 @@ Nature Protocols (Nat Protoc), ISSN 1750-2799 (online), ISSN 1754-2189 (print)
 
 ## 🗂 Repository Structure
 
-├── scripts/ # R scripts (cellchat, LIANA, ICELLNet) in bulk and scRNA-seq  
+├── scripts/ # R scripts (cellchat, LIANA, ICELLNet, NicheNet)  
 └── README.md  
 └── LICENSE
 
